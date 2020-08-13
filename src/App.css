@@ -220,7 +220,7 @@ nav{
       display: flex;
       top:-30em;
 }
-.about img{
+.about .profilePic{
   display: none
 }
 .about-content{
@@ -300,7 +300,7 @@ nav{
       display: flex;
       top:-10em;
 }
-.about img{
+.about .profilePic{
   display: none
 }
 .about-content{
@@ -394,7 +394,7 @@ nav li{
   text-align: left;
   width: 25em;
 }
-.about img{
+.about .profilePic{
   margin-left: 1em;
 }
 

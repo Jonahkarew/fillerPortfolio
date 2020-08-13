@@ -22,32 +22,32 @@ export default
            {
             id: 1,//DO NOT CHANGE THIS (Please)😅
             title:'Project One', //Project Title - Add Your Project Title Here
-             service:'UI/UX Design', // Add Your Service Type Here
+             service:'', // Add Your Service Type Here
             //Project Image - Add Your Project Image Here
-             imageSrc:"https://images.unsplash.com/photo-1558104631-0fa41a8f6c20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+             imageSrc:"https://images.unsplash.com/photo-1457269449834-928af64c684d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2167&q=80",
              //Project URL - Add Your Project Url Here
-             url:'http://chetanverma.com/'
+             url:''
             },
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
                 title: 'Project Two',
                 service: 'Website Development',
-                imageSrc: "https://images.unsplash.com/photo-1554866585-cd94860890b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-                url: 'http://chetanverma.com/'
+                imageSrc: "",
+                url: ''
             },
             { 
                 id: 3,//DO NOT CHANGE THIS (Please)😅
                 title: 'Project Three',
                 service: 'Web App',
-                imageSrc: "https://images.unsplash.com/photo-1511500118080-275313ec90a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-                url: 'http://chetanverma.com/'
+                imageSrc: "",
+                url: ''
             },
             {
                 id: 4,//DO NOT CHANGE THIS (Please)😅
                 title: 'Project Four',
                 service: 'Branding',
-                imageSrc: "https://images.unsplash.com/photo-1558452919-08ae4aea8e29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-                url: 'http://chetanverma.com/'
+                imageSrc: "",
+                url: ''
            }
 
                     /*

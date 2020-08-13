@@ -1,4 +1,6 @@
 import guildStackGif from './components/assets/guildstack.gif';
+import profilePic from './components/assets/profile.jpg';
+
 
 export default
     {
@@ -16,7 +18,8 @@ export default
         contactEmail:'jonahkarew@gmail.com',
         // Add Your About Text Here
         abouttext: `Hi, I'm Jonah. I'm pretty new to the world of full stack development, but what I lack in experience I make up for in pure determination.`,
-        aboutImage:'https://images.unsplash.com/photo-1521587765099-8835e7201186?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
+        aboutImage:profilePic,
+        // aboutImage:'https://images.unsplash.com/photo-1521587765099-8835e7201186?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)
        // Change Projects Here 

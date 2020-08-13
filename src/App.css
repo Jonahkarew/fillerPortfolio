@@ -119,8 +119,13 @@ li .link:hover{
   text-align: left;
   width: 37em;
 }
-.about img{
+.about .profilePic{
+  border-radius: 25px;
+  border: none;
+  height: 25em;
+  width: 30em;
   margin-left: 5em;
+  box-shadow: 0 0 10px 10px white inset
 }
 .work{
   position: relative;

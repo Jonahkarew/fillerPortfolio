@@ -12,7 +12,7 @@ class About extends Component {
                     <p>{data.abouttext}</p>
             </Fade>
             </div>
-            {data.ShowAboutImage ? <img src={data.aboutImage} alt='about jonah'></img> : null}
+            {data.ShowAboutImage ? <div className='profilePic' style={{backgroundImage: `url(${data.aboutImage})`}} alt='about jonah' title="photo by Marissa Shea"></div> : null}
             
 
         </div>  );

@@ -50,7 +50,7 @@ nav{
   position:fixed;
   left:60em;
   top:6em;
-z-index: 100;
+z-index: 2;
 }
 nav li{
   display: inline-block;
@@ -371,7 +371,7 @@ body{
   nav{
   left:60em;
   top:12em;
-  z-index: 100;
+  z-index: 17;
 }
 nav li{
    font-size: 3em;
@@ -434,6 +434,10 @@ height: 32em;
 }
 
 
+}
+
+::-webkit-scrollbar{
+  width: 30px;
 }
 
 

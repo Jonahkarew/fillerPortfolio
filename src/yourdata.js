@@ -1,3 +1,5 @@
+import guildStackGif from './components/assets/guildstack.gif';
+
 export default
     {
         //(Please Do Not Remove The comma(,) after every variable)
@@ -21,12 +23,12 @@ export default
        projects:[
            {
             id: 1,//DO NOT CHANGE THIS (Please)😅
-            title:'Project One', //Project Title - Add Your Project Title Here
+            title:'FFXIV Guildstack', //Project Title - Add Your Project Title Here
              service:'', // Add Your Service Type Here
             //Project Image - Add Your Project Image Here
-             imageSrc:"https://images.unsplash.com/photo-1457269449834-928af64c684d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2167&q=80",
+             imageSrc: guildStackGif,
              //Project URL - Add Your Project Url Here
-             url:''
+             url:'https://ffxivguildstack.herokuapp.com/'
             },
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
